@@ -1,6 +1,6 @@
 import 'package:equatable/equatable.dart';
 
-import 'movie_model.dart';
+import 'portsmouth_model.dart';
 
 
 abstract class MoviesState extends Equatable {}

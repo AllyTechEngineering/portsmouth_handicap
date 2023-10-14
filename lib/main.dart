@@ -1,9 +1,9 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:portsmouth_handicap/src/movies/movie_cubit.dart';
-import 'package:portsmouth_handicap/src/movies/movie_page.dart';
-import 'package:portsmouth_handicap/src/movies/movie_repository.dart';
+import 'package:portsmouth_handicap/src/portsmouth/portsmouth_cubit.dart';
+import 'package:portsmouth_handicap/src/portsmouth/portsmouth_page.dart';
+import 'package:portsmouth_handicap/src/portsmouth/portsmouth_repository.dart';
 
 void main() {
   runApp(MyApp());
